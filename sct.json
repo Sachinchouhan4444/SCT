@@ -1,0 +1,16 @@
+{
+  "name": "Shield Coin",
+  "symbol": "SCT",
+  "description": "Shield Coin is a utility token on Solana.",
+  "image": "https://raw.githubusercontent.com/Sachinchouhan4444/SCT/main/SCT.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sachinchouhan4444/SCT/main/SCT.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
